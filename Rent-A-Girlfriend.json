@@ -190,7 +190,7 @@
       }
     },
     "304": {
-      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 1",
+      "title": "MY GIRLFRIEND AND “THAT TIME” 1",
       "volume": "",
       "last_updated": "1744432526",
       "groups": {
@@ -198,7 +198,7 @@
       }
     },
     "305": {
-      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 2",
+      "title": "MY GIRLFRIEND AND “THAT TIME” 2",
       "volume": "",
       "last_updated": "1744432526",
       "groups": {
@@ -206,7 +206,7 @@
       }
     },
     "306": {
-      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 3",
+      "title": "MY GIRLFRIEND AND “THAT TIME” 3",
       "volume": "",
       "last_updated": "1744432526",
       "groups": {
@@ -509,6 +509,14 @@
         "imgur": "/proxy/api/imgur/chapter/577MDaO"
       }
     },
+    "344": {
+      "title": "THE DATE AND THE BOYFRIEND 24",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgchest": "/proxy/api/imgchest/chapter/ljyqzdqoey2"
+      }
+    },
     "345": {
       "title": "THE REMAINING DAYS WITH MY GIRLFRIEND",
       "volume": "",
@@ -531,6 +539,14 @@
       "last_updated": "1744432526",
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/6FUkyrv"
+      }
+    },
+    "348": {
+      "title": "MY GIRLFRIEND AND THE SECRET 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgchest": "/proxy/api/imgchest/chapter/na7keno6b78"
       }
     },
     "349": {
@@ -717,20 +733,12 @@
         "imgur": "/proxy/api/imgur/chapter/RdaBKTv"
       }
     },
-    "344": {
-      "title": "THE DATE AND THE BOYFRIEND 24",
+    "372": {
+      "title": "MY GIRLFRIEND AND LOVE 21",
       "volume": "",
-      "last_updated": "1744432526",
+      "last_updated": "1744433187",
       "groups": {
-        "imgchest": "/proxy/api/imgchest/chapter/ljyqzdqoey2"
-      }
-    },
-    "348": {
-      "title": "MY GIRLFRIEND AND THE SECRET 2",
-      "volume": "",
-      "last_updated": "1744432526",
-      "groups": {
-        "imgchest": "/proxy/api/imgchest/chapter/na7keno6b78"
+        "imgur": "/proxy/api/imgur/chapter/oaVXspZ"
       }
     }
   }
