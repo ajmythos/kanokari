@@ -1,6 +1,6 @@
 {
   "title": "Rent-A-Girlfriend",
-  "description": "Rent-A-Girlfriend simulpub chapters available for those out of region to access K MANGA chapters of the series. This is a collection of chapters since K Manga starts simultaneously published the series in English.",
+  "description": "Rent-A-Girlfriend simulpub chapters available for those out of region to access K MANGA chapters of the series. This is a collection of chapters since K Manga started simultaneously publishing the series in English.",
   "artist": "Reiji Miyajima",
   "author": "Reiji Miyajima",
   "cover": "https://i.imgur.com/Tfg98os.png",
@@ -8,9 +8,729 @@
     "281": {
       "title": "THE SPIDER AND MY GIRLFRIEND",
       "volume": "",
-      "last_updated": "1744351352",
+      "last_updated": "1744432526",
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/6jCpHUt"
+      }
+    },
+    "282": {
+      "title": "THE CONVENIENCE STORE AT NIGHT WITH MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/896fPNN"
+      }
+    },
+    "283": {
+      "title": "\"KAZUYA\"",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/H5MSEZ0"
+      }
+    },
+    "284": {
+      "title": "RECREATION WITH MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ep6dt2E"
+      }
+    },
+    "285": {
+      "title": "RECREATION WITH MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/rm0UI0E"
+      }
+    },
+    "286": {
+      "title": "RECREATION WITH MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/CzhtqkJ"
+      }
+    },
+    "287": {
+      "title": "MY GIRLFRIEND AND HER FRIEND 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/MCYrmIX"
+      }
+    },
+    "288": {
+      "title": "MY GIRLFRIEND AND HER FRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/SG3aQpN"
+      }
+    },
+    "289": {
+      "title": "MY GIRLFRIEND AND HER FRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/GNTBOlU"
+      }
+    },
+    "290": {
+      "title": "GOING OUT WITH MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/vCSuIwT"
+      }
+    },
+    "291": {
+      "title": "GOING OUT WITH MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Swr7t2M"
+      }
+    },
+    "292": {
+      "title": "MY GIRLFRIEND AND THE KIDS 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/h6PqZYj"
+      }
+    },
+    "293": {
+      "title": "MY GIRLFRIEND AND THE KIDS 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/laVVkSA"
+      }
+    },
+    "294": {
+      "title": "MY GIRLFRIEND AND THE KIDS 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/mC10WlU"
+      }
+    },
+    "295": {
+      "title": "MY GIRLFRIEND AND THE KIDS 4",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/1SKgD3f"
+      }
+    },
+    "296": {
+      "title": "MY GIRLFRIEND AND THE KIDS 5",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/4TqtTVw"
+      }
+    },
+    "297": {
+      "title": "THE ASSESSMENT AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/LcxsRdm"
+      }
+    },
+    "298": {
+      "title": "MY GIRLFRIEND AND THE TOUCH",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/fl51z6M"
+      }
+    },
+    "299": {
+      "title": "MY GIRLFRIEND AND THE LAUNDRY",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/AkNzw9X"
+      }
+    },
+    "300": {
+      "title": "MY GIRLFRIEND AND THE CARD GAME",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/0XvRONi"
+      }
+    },
+    "301": {
+      "title": "MY GIRLFRIEND AND THE CARD GAME 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/eoViFlV"
+      }
+    },
+    "302": {
+      "title": "MY GIRLFRIEND AND THE CARD GAME 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/GecjBHl"
+      }
+    },
+    "303": {
+      "title": "MY FRIEND AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/MBuNyWl"
+      }
+    },
+    "304": {
+      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/aeWEarQ"
+      }
+    },
+    "305": {
+      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/EnUk642"
+      }
+    },
+    "306": {
+      "title": "MY GIRLFRIEND AND \u201cTHAT TIME\u201d 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/80lNBmo"
+      }
+    },
+    "307": {
+      "title": "MY GIRLFRIEND AND THE RENTAL DATE 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/fbX8cwz"
+      }
+    },
+    "308": {
+      "title": "MY GIRLFRIEND AND THE RENTAL DATE 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ZOSZceF"
+      }
+    },
+    "309": {
+      "title": "MY GIRLFRIEND AND THE RENTAL DATE 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/GRRaTAY"
+      }
+    },
+    "310": {
+      "title": "COSPLAY AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/efi7qEM"
+      }
+    },
+    "311": {
+      "title": "COSPLAY AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/MqTgIjn"
+      }
+    },
+    "312": {
+      "title": "COSPLAY AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/tYv87LX"
+      }
+    },
+    "313": {
+      "title": "COSPLAY AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/e2uEZl4"
+      }
+    },
+    "314": {
+      "title": "ASKING OUT MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/zmKr9bK"
+      }
+    },
+    "315": {
+      "title": "ASKING OUT MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/db3wBEv"
+      }
+    },
+    "316": {
+      "title": "ASKING OUT MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/g0nwXJ8"
+      }
+    },
+    "317": {
+      "title": "MY GIRLFRIEND AND THE SCHEDULE",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/DSb1TbY"
+      }
+    },
+    "318": {
+      "title": "MY GIRLFRIEND AND THE MOLE",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/EAXFJFR"
+      }
+    },
+    "319": {
+      "title": "MY GIRLFRIEND AND THE TROUBLES",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Huyh5qe"
+      }
+    },
+    "320": {
+      "title": "MY GIRLFRIEND AND THE BALL",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/03tD4aX"
+      }
+    },
+    "321": {
+      "title": "THE DATE AND THE BOYFRIEND",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Yd5S9Fr"
+      }
+    },
+    "322": {
+      "title": "THE DATE AND THE BOYFRIEND 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/UQqdif6"
+      }
+    },
+    "323": {
+      "title": "THE DATE AND THE BOYFRIEND 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/wKQCQcm"
+      }
+    },
+    "324": {
+      "title": "THE DATE AND THE BOYFRIEND 4",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/yQaDU3W"
+      }
+    },
+    "325": {
+      "title": "THE DATE AND THE BOYFRIEND 5",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/TFGboIU"
+      }
+    },
+    "326": {
+      "title": "THE DATE AND THE BOYFRIEND 6",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/vklGc4p"
+      }
+    },
+    "327": {
+      "title": "THE DATE AND THE BOYFRIEND 7",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/q6l7cPy"
+      }
+    },
+    "328": {
+      "title": "THE DATE AND THE BOYFRIEND 8",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/RknEdKo"
+      }
+    },
+    "329": {
+      "title": "THE DATE AND THE BOYFRIEND 9",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/QzQBXFo"
+      }
+    },
+    "330": {
+      "title": "THE DATE AND THE BOYFRIEND 10",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ZsCBRZg"
+      }
+    },
+    "331": {
+      "title": "THE DATE AND THE BOYFRIEND 11",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/DelrrEi"
+      }
+    },
+    "332": {
+      "title": "THE DATE AND THE BOYFRIEND 12",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/muC7JPg"
+      }
+    },
+    "333": {
+      "title": "THE DATE AND THE BOYFRIEND 13",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/SZppDzR"
+      }
+    },
+    "334": {
+      "title": "THE DATE AND THE BOYFRIEND 14",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/RZpkRwG"
+      }
+    },
+    "335": {
+      "title": "THE DATE AND THE BOYFRIEND 15",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/VhEGxsn"
+      }
+    },
+    "336": {
+      "title": "THE DATE AND THE BOYFRIEND 16",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/79mass4"
+      }
+    },
+    "337": {
+      "title": "THE DATE AND THE BOYFRIEND 17",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ti2nXu9"
+      }
+    },
+    "338": {
+      "title": "THE DATE AND THE BOYFRIEND 18",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/2L8r92X"
+      }
+    },
+    "339": {
+      "title": "THE DATE AND THE BOYFRIEND 19",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/keAFOlC"
+      }
+    },
+    "340": {
+      "title": "THE DATE AND THE BOYFRIEND 20",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/IGafd3o"
+      }
+    },
+    "341": {
+      "title": "THE DATE AND THE BOYFRIEND 21",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/SGPiE1L"
+      }
+    },
+    "342": {
+      "title": "THE DATE AND THE BOYFRIEND 22",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/SIA4kw2"
+      }
+    },
+    "343": {
+      "title": "THE DATE AND THE BOYFRIEND 23",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/577MDaO"
+      }
+    },
+    "345": {
+      "title": "THE REMAINING DAYS WITH MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/bHfNIkJ"
+      }
+    },
+    "346": {
+      "title": "MY GIRLFRIEND AND HER NAME",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/sJPwIaB"
+      }
+    },
+    "347": {
+      "title": "MY GIRLFRIEND AND THE SECRET",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/6FUkyrv"
+      }
+    },
+    "349": {
+      "title": "MY GIRLFRIEND AND HER GOAL",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/zqBXwmd"
+      }
+    },
+    "350": {
+      "title": "MY GIRLFRIEND AND THE TWO DAYS BEFORE",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/EYyC4sp"
+      }
+    },
+    "351": {
+      "title": "THE BOYFRIEND AND THE DAY BEFORE",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/KuI0xCr"
+      }
+    },
+    "352": {
+      "title": "MY GIRLFRIEND AND LOVE 1",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/LkVNgUb"
+      }
+    },
+    "353": {
+      "title": "MY GIRLFRIEND AND LOVE 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ePdUNAj"
+      }
+    },
+    "354": {
+      "title": "MY GIRLFRIEND AND LOVE 3",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/DRcby4t"
+      }
+    },
+    "355": {
+      "title": "MY GIRLFRIEND AND LOVE 4",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/H7LGz7p"
+      }
+    },
+    "356": {
+      "title": "MY GIRLFRIEND AND LOVE 5",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/n6bVnTU"
+      }
+    },
+    "357": {
+      "title": "MY GIRLFRIEND AND LOVE 6",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/HJzuJpQ"
+      }
+    },
+    "358": {
+      "title": "MY GIRLFRIEND AND LOVE 7",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/wjetiqD"
+      }
+    },
+    "359": {
+      "title": "MY GIRLFRIEND AND LOVE 8",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Dd1qOBz"
+      }
+    },
+    "360": {
+      "title": "MY GIRLFRIEND AND LOVE 9",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/GxU6JU7"
+      }
+    },
+    "361": {
+      "title": "MY GIRLFRIEND AND LOVE 10",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/3MJ04zF"
+      }
+    },
+    "362": {
+      "title": "MY GIRLFRIEND AND LOVE 11",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/CDq7G5e"
+      }
+    },
+    "363": {
+      "title": "MY GIRLFRIEND AND LOVE 12",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Zhs9x9J"
+      }
+    },
+    "364": {
+      "title": "MY GIRLFRIEND AND LOVE 13",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ySoABma"
+      }
+    },
+    "365": {
+      "title": "MY GIRLFRIEND AND LOVE 14",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/FskfvFe"
+      }
+    },
+    "366": {
+      "title": "MY GIRLFRIEND AND LOVE 15",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/KKU4Gdb"
+      }
+    },
+    "367": {
+      "title": "MY GIRLFRIEND AND LOVE 16",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/x3VpoAp"
+      }
+    },
+    "368": {
+      "title": "MY GIRLFRIEND AND LOVE 17",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/k0A4dH9"
+      }
+    },
+    "369": {
+      "title": "MY GIRLFRIEND AND LOVE 18",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/7x5ypCI"
+      }
+    },
+    "370": {
+      "title": "MY GIRLFRIEND AND LOVE 19",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ksFF1dt"
+      }
+    },
+    "371": {
+      "title": "MY GIRLFRIEND AND LOVE 20",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/RdaBKTv"
+      }
+    },
+    "344": {
+      "title": "THE DATE AND THE BOYFRIEND 24",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgchest": "/proxy/api/imgchest/chapter/ljyqzdqoey2"
+      }
+    },
+    "348": {
+      "title": "MY GIRLFRIEND AND THE SECRET 2",
+      "volume": "",
+      "last_updated": "1744432526",
+      "groups": {
+        "imgchest": "/proxy/api/imgchest/chapter/na7keno6b78"
       }
     }
   }
