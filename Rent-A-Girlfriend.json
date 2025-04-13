@@ -1,10 +1,490 @@
 {
   "title": "Rent-A-Girlfriend",
-  "description": "Rent-A-Girlfriend simulpub chapters available for those out of region to access K MANGA chapters of the series. This is a collection of chapters since K Manga started simultaneously publishing the series in English.",
+  "description": "Rent-A-Girlfriend simulpub chapters available for those out of region to access K MANGA chapters of the series. This is a collection of chapters since K Manga started simultaneously publishing the series in English, starting from chapter 281 to ongoing current chapters.\n \nChapters 280 and previous are from the scan groups that helped the series reach international readers before official translations started simulpub, with English volumes only started its release in June 2020.",
   "artist": "Reiji Miyajima",
   "author": "Reiji Miyajima",
   "cover": "https://i.imgur.com/Tfg98os.png",
   "chapters": {
+    "128": {
+      "title": "INTRODUCTIONS AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744533770",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/ded581d4-69ef-413e-b290-0b127e69c41c"
+      }
+    },
+    "129": {
+      "title": "SHOOTING AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744533725",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/d62a5bd2-e041-42fc-b078-5686c0c27415"
+      }
+    },
+    "130": {
+      "title": "SHOOTING AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744533677",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/087eccc1-e015-40e5-ad9d-936dac53857f"
+      }
+    },
+    "131": {
+      "title": "SHOOTING AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744533644",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/26d62554-290e-470f-b721-ea4a15edc7e0"
+      }
+    },
+    "132": {
+      "title": "Chapter 132 THE LAST SCENE AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744533579",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/a93a4157-7ef5-4512-bde6-97d4333f7db1"
+      }
+    },
+    "133": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744533552",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/9578b714-3aab-4f8c-a6a0-f93bb5417763"
+      }
+    },
+    "134": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744533503",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/7fc35dd3-e20a-4554-a6c8-bf786da4586a"
+      }
+    },
+    "135": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744533464",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/6cac50cc-e0f8-4f18-96f7-c9909b58488e"
+      }
+    },
+    "136": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 5",
+      "volume": "",
+      "last_updated": "1744533420",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/3128c43a-87fd-407c-bb80-d33a0ef4b8cf"
+      }
+    },
+    "137": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 6",
+      "volume": "",
+      "last_updated": "1744533383",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/6c27041a-c2b8-422a-9e9c-ab72ba77ce00"
+      }
+    },
+    "138": {
+      "title": "THE LAST SCENE AND MY GIRLFRIEND 7",
+      "volume": "",
+      "last_updated": "1744533351",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/c8ec265d-e587-490c-b948-d2808c8d33e8"
+      }
+    },
+    "139": {
+      "title": "THE WISH AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744533299",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/4d96d31d-4a8b-49a7-b253-53c39cf869c3"
+      }
+    },
+    "140": {
+      "title": "THE WISH AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744533266",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/03a4b943-790e-4f1d-96ed-31a5f21275b4"
+      }
+    },
+    "141": {
+      "title": "THE WISH AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744533223",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/ce332e6c-2309-43c9-b518-c1d5a5508cf4"
+      }
+    },
+    "142": {
+      "title": "THE WISH AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744533183",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/bfc8bfee-7f71-43f1-bb3d-29c338517ffb"
+      }
+    },
+    "143": {
+      "title": "MY GIRLFRIEND AND THE SEEDLING",
+      "volume": "",
+      "last_updated": "1744533157",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/03e99c76-532e-4bf2-899f-a6cf70b8cf42"
+      }
+    },
+    "144": {
+      "title": "KAZUYA AND HIS GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744533110",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/890d88af-950d-427d-bfb9-8d95c9205589"
+      }
+    },
+    "145": {
+      "title": "FAMILY AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744533065",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/8d233c55-cb7e-4c57-a67a-2df6fbe973a7"
+      }
+    },
+    "146": {
+      "title": "FAMILY AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744533026",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/45277f9c-de1c-4639-9914-459d46d07afb"
+      }
+    },
+    "147": {
+      "title": "LIES AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744532977",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/e1f5697d-89b6-40e2-bedd-122838cedb4c"
+      }
+    },
+    "148": {
+      "title": "LIES AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744532932",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/df5ba2de-9577-46f4-a7fe-7bf077de9c3e"
+      }
+    },
+    "149": {
+      "title": "MY DREAMS, MY GIRLFRIEND, AND ME 2",
+      "volume": "",
+      "last_updated": "1744532894",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/d8ad9436-abc7-4dec-ae46-2762fa4d3fb9"
+      }
+    },
+    "150": {
+      "title": "LIES AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744532840",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/e974c64c-4c4e-43e9-94aa-5fef5a091f75"
+      }
+    },
+    "151": {
+      "title": "LIES AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744532794",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/6ced8579-1f95-40a0-99a4-59cd889a1cda"
+      }
+    },
+    "152": {
+      "title": "LIES AND MY GIRLFRIEND 5",
+      "volume": "",
+      "last_updated": "1744532752",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/1a4b6349-9cb6-4e01-9ceb-3ec2c5a9a55e"
+      }
+    },
+    "153": {
+      "title": "SEPARATIONS AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744532714",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/18fe3ed5-61d1-48ea-bed0-21479b965141"
+      }
+    },
+    "154": {
+      "title": "RESOLVE AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744532687",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/0c1ed57a-688b-490a-9fe4-b51e4059d9bf"
+      }
+    },
+    "155": {
+      "title": "MY GIRLFRIEND AND THE SUDDEN TRIP 1",
+      "volume": "",
+      "last_updated": "1744532639",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/b9fc36da-fbd7-498f-8364-b20bf06a1210"
+      }
+    },
+    "156": {
+      "title": "MY GIRLFRIEND AND THE SUDDEN TRIP 2",
+      "volume": "",
+      "last_updated": "1744532600",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/a28a3aef-e316-41b2-ae0e-657062f696a5"
+      }
+    },
+    "157": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 1",
+      "volume": "",
+      "last_updated": "1744532557",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/64d6762d-2898-4389-9bf2-7a9f8ed2efe9"
+      }
+    },
+    "158": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 2",
+      "volume": "",
+      "last_updated": "1744532517",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/1f28c71b-0825-407c-a651-460145cba15b"
+      }
+    },
+    "159": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 3",
+      "volume": "",
+      "last_updated": "1744532480",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/bce48f15-d07e-41d2-b809-5f794a8a8dc1"
+      }
+    },
+    "160": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 4",
+      "volume": "",
+      "last_updated": "1744532442",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/683865b0-83ea-434a-a48b-98b10d3f4a2c"
+      }
+    },
+    "161": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 5",
+      "volume": "",
+      "last_updated": "1744532385",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/bde7ac22-6c70-4736-85b7-c83c0b37a0d1"
+      }
+    },
+    "162": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 6",
+      "volume": "",
+      "last_updated": "1744532335",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/23f24d45-a068-496b-ac58-59876c23b274"
+      }
+    },
+    "163": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 7",
+      "volume": "",
+      "last_updated": "1744532280",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/e4eff9d2-e6e9-4596-ae41-c69d01966928"
+      }
+    },
+    "164": {
+      "title": "MY GIRLFRIEND AND HER BOYFRIEND 8",
+      "volume": "",
+      "last_updated": "1744532241",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/771301d2-2337-40a4-9eae-9212ceb363b8"
+      }
+    },
+    "165": {
+      "title": "MY GIRLFRIEND AND TEARS 1",
+      "volume": "",
+      "last_updated": "1744532200",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/daff9c7e-750a-4942-8ac2-6b4065eaefb6"
+      }
+    },
+    "166": {
+      "title": "MY GIRLFRIEND AND TEARS 2",
+      "volume": "",
+      "last_updated": "1744532139",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/cbe90d5e-c985-4fce-b095-28443a1d517a"
+      }
+    },
+    "167": {
+      "title": "THE PREMIER AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744532105",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/8aea54a0-cfc0-4779-ac9b-c53dd3d5e832"
+      }
+    },
+    "168": {
+      "title": "THE BOYFRIEND AND HIS DAILY LIFETHE LIFE",
+      "volume": "",
+      "last_updated": "1744532033",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/f9488bbb-c5bb-4d07-8b74-9817aee8c9ea"
+      }
+    },
+    "169": {
+      "title": "THE HOT SPRINGS AND MY (TENTATIVE) GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531989",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/f88b8e9f-7710-40c4-a4c0-64503ea23d83"
+      }
+    },
+    "170": {
+      "title": "THE LOVE AGONY AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531940",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/06ad790d-d926-4ba8-9ba0-242473888bce"
+      }
+    },
+    "171": {
+      "title": "THE DATE (?) AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744531905",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/2c62b0f7-9343-4c26-9d91-58026359dc36"
+      }
+    },
+    "172": {
+      "title": "THE DATE (?) AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744531858",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/748672a2-15f7-4295-807a-7fb0cbe0f6ff"
+      }
+    },
+    "173": {
+      "title": "THE CONFESSION AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744531803",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/1150da9e-9dd8-47c0-b971-91db6882c6de"
+      }
+    },
+    "174": {
+      "title": "THE CONFESSION AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744531777",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/ae30cd28-c337-4374-a31e-99b871b3e4a1"
+      }
+    },
+    "175": {
+      "title": "THE SIGH AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531726",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/abb06a19-540c-4fca-a4da-e890688824b5"
+      }
+    },
+    "176": {
+      "title": "THE TIGER’S DEN AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744531684",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/23f46678-b3fd-4f9e-a310-1f5b9d19cda9"
+      }
+    },
+    "177": {
+      "title": "THE TIGER’S DEN AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744531640",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/ea275945-1d48-47e8-8fce-8c5ebd8933b1"
+      }
+    },
+    "178": {
+      "title": "THE TIGER’S DEN AND MY GIRLFRIEND 3",
+      "volume": "",
+      "last_updated": "1744531596",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/af734136-cb9c-47ee-844c-41ef62ea7e4c"
+      }
+    },
+    "179": {
+      "title": "THE TIGER’S DEN AND MY GIRLFRIEND 4",
+      "volume": "",
+      "last_updated": "1744531561",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/798a62b6-a5e5-4293-946d-547883113f01"
+      }
+    },
+    "180": {
+      "title": "THE DETERMINATION AND MY GIRLFRIEND 1",
+      "volume": "",
+      "last_updated": "1744531516",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/7563f6cd-4bd7-47a3-a3e7-cb9a05c809d3"
+      }
+    },
+    "181": {
+      "title": "THE DETERMINATION AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744531463",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/f4e9733a-87e2-4f1b-804d-a5472c010c22"
+      }
+    },
+    "182": {
+      "title": "MY FRIEND AND MY GIRLFRIEND 2",
+      "volume": "",
+      "last_updated": "1744531440",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/b73ecde0-eff3-4f5a-b4e7-f6f904d591e6"
+      }
+    },
+    "183": {
+      "title": "MY GIRLFRIEND AND MY EX 5",
+      "volume": "",
+      "last_updated": "1744531331",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/002936c1-f99c-4f60-8973-1d9ee947fb3d"
+      }
+    },
+    "184": {
+      "title": "THAT MOMENT AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531282",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/227f918e-e89d-4f35-9af8-73cea16407cf"
+      }
+    },
+    "185": {
+      "title": "MAXIMUM SECURITY AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531226",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/881e0453-e161-4f19-9276-77d8904db134"
+      }
+    },
+    "186": {
+      "title": "THE NO-GO AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531184",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/49114da4-2acb-4f61-8ec3-9429e9ca8801"
+      }
+    },
+    "187": {
+      "title": "MY TEMPORARY GIRLFRIEND AND MY GIRLFRIEND",
+      "volume": "",
+      "last_updated": "1744531094",
+      "groups": {
+        "mangadex": "/proxy/api/mangadex/chapter/7f8941be-abc7-4f4e-af3d-5ccd81870fcf"
+      }
+    },
     "188": {
       "title": "PARADISE AND MY GIRLFRIEND 1",
       "volume": "",
